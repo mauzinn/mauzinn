@@ -1,6 +1,6 @@
 ### Olá! Sou o mauzin 👋
 
-## Tecnologias que mais ultilizo em meus projetos:<br><br>
+## Tecnologias que mais ultilizo em meus projetos:
 ![mauzinn Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mauzinn&theme=blue-green)<br><br>
 
 ## Tecnologias (iniciante):
