@@ -10,4 +10,4 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br><br>
 </div>
 
-Estudando programação tenho aproximadamente 2 semanas de estudo e até agora fiz coisas que eu não conseguiria e estou me superando a cada dia :)
+Estudando programação tenho aproximadamente 3 semanas de estudo e até agora fiz coisas que eu não conseguiria e estou me superando a cada dia :)
