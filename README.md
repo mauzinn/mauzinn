@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sejam+Bem+Vindos(as);Sou+Mauzin;Tenho+14+anos;Em+breve+um+Dev+Front+End!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+o+Mauzin;Tenho+14+anos;Estudando+para+em+breve+se+tornar+um+Dev+Front+End!!!)](https://git.io/typing-svg)
 
 
 ## Tecnologias que mais ultilizo em meus projetos:
