@@ -11,4 +11,4 @@
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
 </div>
 
-Estudando programação tenho aproximadamente 4 semanas de estudo e até agora fiz coisas que eu não conseguiria e estou me superando a cada dia :)
+Estudando programação e até agora fiz coisas que eu não conseguiria e estou me superando a cada dia :)
