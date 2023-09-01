@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="center">
 <br>
-Olá eu sou o Mauzin tenho 14 anos e estudo programação, me esforço a ser um dev front end :)
+Olá eu sou o Mauzin tenho 14 anos e estudo programação, me esforço para me tornar um dev front end :)
 <br>
 <br>
 
