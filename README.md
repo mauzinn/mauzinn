@@ -5,9 +5,7 @@
   Desenvolvo projetos para web e no momento estou aprendendo bootstrap para fazer interfaces de forma mais simples.
 </p>
 
-<p align="left">
-  > Estou no momento desenvolvendo projetos pessoas, apenas para praticar
-</p>
+> *Estou no momento desenvolvendo projetos pessoais, apenas para praticar.*
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
