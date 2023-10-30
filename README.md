@@ -14,6 +14,7 @@
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TYPESCRIPT">
   <img align="center" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="EXPRESS">
   <img align="center" src="https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue" alt="Sequelize">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb">
   <img align="center" width="80px" src="https://th.bing.com/th/id/R.b4e8adc42c1335c4b7112b2d2f2966b6?rik=G1WhEEMFn%2fOlQg&riu=http%3a%2f%2fwww.programwitherik.com%2fcontent%2fimages%2f2017%2f01%2fsocket-e1434850599985.png&ehk=P64A21mY9uaTrBUgwcZPWiIVImPF9HMKLJRs66C4Nno%3d&risl=&pid=ImgRaw&r=0" alt="SocketIo">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL">
 </div>
