@@ -1,4 +1,4 @@
-# Olá me chamo mauzin 👋
+# Olá eu sou o mauzin 👋
 
 > Tenho 15 anos e procuro aprender programação <strong>Web</strong>, no momento me encontro aprendendo <strong>Front-end</strong>, <br> porém possuo conhecimentos sobre node, express, sequelize, mysql etc...
 > 
