@@ -1,6 +1,6 @@
-# Olá eu sou o mauzin 👋
+# Hello, I am Mauzin 👋
 
-> Tenho 16 anos, se presisar de ajuda para fazer algum projeto pode chamar no discord "mauzinn"
+> I am 16 years old, and if you need help with any project, you can reach out to me on Discord at "mauzinn"
 > 
 - Skills:
 
